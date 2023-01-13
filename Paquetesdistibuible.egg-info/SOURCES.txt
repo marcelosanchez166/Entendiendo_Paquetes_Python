@@ -1,0 +1,8 @@
+setup.py
+Paquetesdistibuible.egg-info/PKG-INFO
+Paquetesdistibuible.egg-info/SOURCES.txt
+Paquetesdistibuible.egg-info/dependency_links.txt
+Paquetesdistibuible.egg-info/top_level.txt
+paquetes/__init__.py
+paquetes/PotenciaYRedondea/__init__.py
+paquetes/PotenciaYRedondea/potenciaYredondea.py
