@@ -1,0 +1,10 @@
+Los paquetes son directorios o carpetas donde se almacenaran modulos relacionados entre si
+
+Sirven para organizar y reutilizar el codigo
+
+
+Se debe crear una carpeta con un archivo con el siguiente nombre __init__.py y si se crean mas paquetes(carpetas) se puede acceder a ellos 
+importando la carpeta principal+subcarperta+modulo(archivo)
+eje:
+from paquetes.operaciones_basicas import *
+
